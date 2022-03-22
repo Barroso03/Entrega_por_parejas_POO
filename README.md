@@ -68,6 +68,9 @@ print(aa.y((z,1,'z')))
 
 UML:
 
+<img width="288" alt="Captura de pantalla 2022-03-22 a las 9 59 43" src="https://user-images.githubusercontent.com/91721668/159444497-2be8ff6b-e5f0-4988-8aa0-cc9b7b8b9f03.png">
+
+
 
 ## Ejercicio d:
 
@@ -85,3 +88,7 @@ class Logger():
 print(Logger.log())        
 
 UML:
+
+<img width="254" alt="Captura de pantalla 2022-03-22 a las 10 01 13" src="https://user-images.githubusercontent.com/91721668/159444517-8b14d3dd-2682-4a59-a2c4-cef5dd2dc3bf.png">
+
+
