@@ -87,6 +87,9 @@ class Logger():
         print("--End log--:", "{}".format(i), "log (s)" )
 print(Logger.log())        
 
+
+
+
 UML:
 
 <img width="254" alt="Captura de pantalla 2022-03-22 a las 10 01 13" src="https://user-images.githubusercontent.com/91721668/159444517-8b14d3dd-2682-4a59-a2c4-cef5dd2dc3bf.png">
