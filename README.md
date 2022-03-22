@@ -3,11 +3,13 @@
 
 # Repositorio:
 
-El link del repositorio es 
+El link del repositorio es https://github.com/Barroso03/Entrega_por_parejas_POO
 
 
 
+# Tarea
 
+La tarea que hemos realizado estaba basada en resolver unos ejercicios aplicando determinadas pautas que nos indican los ejercicios y además en la adjunción de UML´s.
 
 
 
