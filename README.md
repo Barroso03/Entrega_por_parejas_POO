@@ -1,6 +1,17 @@
 # Entrega_por_parejas_POO
 
 
+# Repositorio:
+
+El link del repositorio es 
+
+
+
+
+
+
+
+
 
 # Ejercicio a y b:
 
