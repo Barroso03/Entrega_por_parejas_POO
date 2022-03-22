@@ -18,7 +18,7 @@ La tarea que hemos realizado estaba basada en resolver unos ejercicios aplicando
 
 
 
-# Ejercicio a y b:
+## Ejercicio a y b:
 
 ```
 class palindromo():
@@ -38,7 +38,7 @@ print(palindromo.palabrapalindromo("palabra"))
 UML:
 
 
-# Ejercicio c:
+## Ejercicio c:
 
 ```
 class A: 
@@ -66,7 +66,7 @@ print(aa.y((z,1,'z')))
 UML:
 
 
-# Ejercicio d:
+## Ejercicio d:
 
 ```
 
