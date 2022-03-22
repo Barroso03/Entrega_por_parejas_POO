@@ -87,7 +87,7 @@ class Logger():
         print("--End log--:", "{}".format(i), "log (s)" )
 print(Logger.log())        
 
-
+```
 
 
 UML:
