@@ -1,4 +1,4 @@
-class palindromo():
+class Palindromo():
   def __init__(self,palabra):
     self.palabra = palabra
   def palabrapalindromo(palabra):
@@ -9,4 +9,5 @@ class palindromo():
     else:
       print("False")
       print(palabra.upper())
-print(palindromo.palabrapalindromo("palabra"))
+print("EJERCICIO PALINDROMO:")
+print(Palindromo.palabrapalindromo("palabra"))

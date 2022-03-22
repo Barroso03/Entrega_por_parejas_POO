@@ -5,6 +5,7 @@ class A:
     def y(self, t): 
         return len(t) 
  
+print("EJERCICIO PUZZLE:")
 a = A 
 y = a.z 
 print(y(a)) 
