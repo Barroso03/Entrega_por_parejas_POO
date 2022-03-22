@@ -2,7 +2,7 @@
 
 
 
--Ejercicio a y b:
+# Ejercicio a y b:
 
 ```
 class palindromo():
@@ -19,9 +19,10 @@ class palindromo():
 print(palindromo.palabrapalindromo("palabra"))
 
 ````
+UML:
 
 
--Ejercicio c:
+# Ejercicio c:
 
 ```
 class A: 
@@ -46,7 +47,10 @@ print(aa.y((z,1,'z')))
 
 ```
 
--Ejercicio d:
+UML:
+
+
+# Ejercicio d:
 
 ```
 
@@ -61,3 +65,4 @@ class Logger():
         print("--End log--:", "{}".format(i), "log (s)" )
 print(Logger.log())        
 
+UML:
