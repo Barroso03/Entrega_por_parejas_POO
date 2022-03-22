@@ -38,6 +38,9 @@ print(palindromo.palabrapalindromo("palabra"))
 UML:
 
 
+<img width="215" alt="Captura de pantalla 2022-03-22 a las 9 56 11" src="https://user-images.githubusercontent.com/91721668/159443630-752bb9f1-b332-4c3d-bb30-7fe913dd9356.png">
+
+
 ## Ejercicio c:
 
 ```
